@@ -2,6 +2,7 @@
 import random
 import math
 #Taking Inputs
+#rr
 lower = int(input("Enter Lower bound:- "))
  
 # Taking Inputs
