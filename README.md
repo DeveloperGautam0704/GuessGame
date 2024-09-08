@@ -16,6 +16,9 @@ End Game Scenarios: The player wins by guessing correctly within the allotted tr
 How to Run:
 
 Input the lower and upper bounds when prompted.
+
 Guess the number based on the provided range.
+
 Follow the hints to adjust your guesses.
+
 Win by guessing correctly or see the correct number if you fail.
